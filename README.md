@@ -7,3 +7,5 @@ I'm a Junior studying Information Technology.</br>
 📫 How to reach me: rashisingh2620@gmail.com </br>
 🥅 2021 Goals: Contribute to Open Source projects and explore new technologies.</br>
 ⚡ Fun fact: I love playing basketball and explore new things in life.</br>
+
+
