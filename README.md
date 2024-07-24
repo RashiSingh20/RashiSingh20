@@ -1,5 +1,5 @@
 ### Hey there  I'm Rashi Singh 😁
-🔭 I have completed my bachelor degree in Information Technology at Dr. D. Y Patil Institute Of Technology, Pune. </br>
+🔭 I have completed my bachelors degree in Information Technology at Dr. D. Y Patil Institute Of Technology, Pune. </br>
 🚀 I am a Cloud Solution Architect working in Microsoft.</br>
 🖥️Exploring whatever I find interesting.</br>
 📫 Reach out to me on LinkedIn https://www.linkedin.com/in/rashisingh99b3331aa/ </br>
